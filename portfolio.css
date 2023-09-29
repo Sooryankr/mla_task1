@@ -1,0 +1,49 @@
+#bar{
+    height: 50px;
+    background-color: rgb(39, 37, 37);
+    margin-top: auto;
+}
+#bar a{
+    padding: 20px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    
+    color: rgb(161, 184, 158);
+    
+}
+#bar a:hover{
+    background-color: rgb(214, 219, 222);
+    height: 10px;
+}
+#main{
+    background-color: rgb(45, 44, 44);
+    height: 1080px;
+    width: 1920px;
+   
+}
+#img1{
+    padding-top: 100px;
+    padding-left: 100px;
+    
+    
+    
+    
+
+}
+img{
+    border-radius: 150%;
+    float: left;
+}
+#txt{
+    padding-left: 500px;
+    color: rgb(222, 222, 222);
+    
+}
+#f1{
+    background-color: rgb(39, 37, 37);
+    height: 200px;
+    width: 1920px;    
+}
+
+
